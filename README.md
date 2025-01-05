@@ -32,5 +32,5 @@ Make sure that you have Python 3.x installed on your machine and that you have d
 2. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/pere-coder/PERSONAL-VIRTUAL.git
-   cd PERSONAL-VIRTUAL
+   git clone https://github.com/Pere-coder/personal-virtual.git
+   cd personal-virtual
