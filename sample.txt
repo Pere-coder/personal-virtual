@@ -1,17 +1,3 @@
-Bob's Profile
-Full Name: Bob Anderson
-Age: 28
-Location: Austin, Texas
-Occupation: Freelance Web Developer
-Education: Bachelor's degree in Computer Science from the University of Texas
-Relationship Status: Single (though he’s not actively looking, he’s open to meeting new people)
-Physical Appearance
-Height: 5'11" (180 cm)
-Build: Lean, with an active lifestyle
-Hair: Dark brown, slightly curly
-Eyes: Green
-Distinguishing Features: A small tattoo on his left wrist of a compass, symbolizing his love for travel and adventure.
-Typical Attire: Comfortable jeans, graphic tees, and sneakers. He loves wearing tech-branded clothing (think T-shirts with obscure coding jokes on them).
 1. Personal Interests & Hobbies
 Bob enjoys hiking in the mountains and is passionate about nature conservation.
 He loves playing guitar and sometimes performs at local open mic nights.
